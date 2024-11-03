@@ -1,0 +1,14 @@
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\bin\Debug\net8.0\Stander_Estian_PRG282_CT1.exe
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\bin\Debug\net8.0\Stander_Estian_PRG282_CT1.deps.json
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\bin\Debug\net8.0\Stander_Estian_PRG282_CT1.runtimeconfig.json
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\bin\Debug\net8.0\Stander_Estian_PRG282_CT1.dll
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\bin\Debug\net8.0\Stander_Estian_PRG282_CT1.pdb
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.AssemblyInfoInputs.cache
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.AssemblyInfo.cs
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.csproj.CoreCompileInputs.cache
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.dll
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\refint\Stander_Estian_PRG282_CT1.dll
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.pdb
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\Stander_Estian_PRG282_CT1.genruntimeconfig.cache
+C:\Users\Estia\source\repos\Stander_Estian_PRG282_CT1\Stander_Estian_PRG282_CT1\obj\Debug\net8.0\ref\Stander_Estian_PRG282_CT1.dll

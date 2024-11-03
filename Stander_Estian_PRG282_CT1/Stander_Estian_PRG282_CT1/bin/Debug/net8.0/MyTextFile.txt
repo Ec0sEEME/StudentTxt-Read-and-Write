@@ -1,0 +1,7 @@
+Anila,Joy,100
+Jan,Mentz,78
+Eva,Shayamano,50
+Tsegofatso,Hutang,90
+test1,test1,91
+test 2,test 2,89
+Test 3,test 3,1
